@@ -1,4 +1,4 @@
-# SMIT-GPA-Scraper
+<h2 align="center">SMIT GPA Scraper</h2>
 
 Scrapes all the marks for all subjects and departments of all students for a given exam and stores them in an systematical order.
 
